@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am a Full-Stack Programmer in Tehran</h3>
+<h3 align="center">I'm a Full-Stack Programmer in Tehran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisaberizadeh&label=Profile%20views&color=0e75b6&style=flat" alt="alisaberizadeh" /> </p>
 
@@ -8,7 +8,7 @@
 - 📫 How to reach me **Alisaberizadeh.one@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-saberizadeh-667899223/](https://www.linkedin.com/in/ali-saberizadeh-667899223/)
-
+##
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ali_sabeeri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-saberizadeh-667899223/) 
 
