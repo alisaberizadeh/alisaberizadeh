@@ -12,17 +12,17 @@ I'm a full-stack developer with a passion for crafting efficient and scalable we
 
 ### 🚀 Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <a href="https://www.php.net/" style="text-decoration: none; border-radius: 10px; border: 2px solid #777BB4; padding: 10px; color: #777BB4; font-weight: bold;">PHP</a>
+    <a href="https://www.javascript.com/" style="text-decoration: none; border-radius: 10px; border: 2px solid #F7DF1E; padding: 10px; color: #F7DF1E; font-weight: bold;">JavaScript</a>
+    <a href="https://laravel.com/" style="text-decoration: none; border-radius: 10px; border: 2px solid #FF2D20; padding: 10px; color: #FF2D20; font-weight: bold;">Laravel</a>
+    <a href="https://reactjs.org/" style="text-decoration: none; border-radius: 10px; border: 2px solid #61DAFB; padding: 10px; color: #61DAFB; font-weight: bold;">React</a>
+    <a href="https://sass-lang.com/" style="text-decoration: none; border-radius: 10px; border: 2px solid #CC6699; padding: 10px; color: #CC6699; font-weight: bold;">Sass</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none; border-radius: 10px; border: 2px solid #E34F26; padding: 10px; color: #E34F26; font-weight: bold;">HTML5</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none; border-radius: 10px; border: 2px solid #1572B6; padding: 10px; color: #1572B6; font-weight: bold;">CSS3</a>
+    <a href="https://getbootstrap.com/" style="text-decoration: none; border-radius: 10px; border: 2px solid #7952B3; padding: 10px; color: #7952B3; font-weight: bold;">Bootstrap</a>
+    <a href="https://git-scm.com/" style="text-decoration: none; border-radius: 10px; border: 2px solid #F05032; padding: 10px; color: #F05032; font-weight: bold;">Git</a>
+    <a href="https://code.visualstudio.com/" style="text-decoration: none; border-radius: 10px; border: 2px solid #007ACC; padding: 10px; color: #007ACC; font-weight: bold;">VS Code</a>
 </div>
 
 ---
