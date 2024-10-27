@@ -14,15 +14,15 @@ I'm a full-stack developer with a passion for crafting efficient and scalable we
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img src="https://media.giphy.com/media/3o7buirZJMG27oVdWg/giphy.gif" alt="PHP" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/xT0xeJpnr0QZg4T5D6/giphy.gif" alt="JavaScript" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/JIX7t2j0Yb7Gg/giphy.gif" alt="Laravel" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/cgwnU0EOhNUhE/giphy.gif" alt="React" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/l1J9q65R0nYQoq8S4/giphy.gif" alt="Sass" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/5VKtDgvzZXf8vZTVQd/giphy.gif" alt="HTML5" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/1Z4N6tzzgYI5t5kiYc/giphy.gif" alt="JavaScript" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/j3N1sKMSP7q3RlhPPC/giphy.gif" alt="Laravel" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/WY12SuYaBccY1R5owH/giphy.gif" alt="React" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/3ohhwJRGs5C7j7RDoE/giphy.gif" alt="Sass" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/8T70GgV8pNjOhmOCuU/giphy.gif" alt="HTML5" width="100" height="100" style="border-radius: 10px;"/>
     <img src="https://media.giphy.com/media/3o7bufozV2I0r0yqe8/giphy.gif" alt="CSS3" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/3o6MbaO95oG7BOg8yo/giphy.gif" alt="Bootstrap" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/xT0xeJpnr0QZg4T5D6/giphy.gif" alt="Git" width="100" height="100" style="border-radius: 10px;"/>
-    <img src="https://media.giphy.com/media/1h8TylvaViHDtSlv06/giphy.gif" alt="VS Code" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/l4KibFgRt9u4mLx8U/giphy.gif" alt="Bootstrap" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBZ7wF2Jm/giphy.gif" alt="Git" width="100" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.giphy.com/media/l1J9q65R0nYQoq8S4/giphy.gif" alt="VS Code" width="100" height="100" style="border-radius: 10px;"/>
 </div>
 
 ---
