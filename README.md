@@ -39,7 +39,7 @@ I'm a dedicated full-stack developer with a strong focus on creating clean, mode
 ### 🌐 Connect With Me
 
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [your-twitter](https://twitter.com/your-twitter)
+- Twitterrrr: [your-twitter](https://twitter.com/your-twitter)
 - Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
 
 ---
