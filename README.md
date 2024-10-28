@@ -1,8 +1,5 @@
 <h1>Hi , I'm a Full Stack Dev.</h1>
 
-===========================================================================================================================
-
-
 🚀 3+ Years of Experience | Passionate About Building Modern Web Solutions
 
 * 🌍  I'm based in Tehran
