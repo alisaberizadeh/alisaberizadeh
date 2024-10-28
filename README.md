@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali
+Hi , I'm a Full Stack Dev.
+
 ===========================================================================================================================
 
-Full Stack Developer
---------------------
 
 🚀 3+ Years of Experience | Passionate About Building Modern Web Solutions
 
