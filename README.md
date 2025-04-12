@@ -56,7 +56,7 @@ Hi , I'm a Full Stack Developer
       </td>
       <td align="center" style="padding: 20px;">
         <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://avatars.githubusercontent.com/u/958072?v=4)" width="50"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel_logo.svg/800px-Laravel_logo.svg.png" width="50"/>
         </div>
       </td>
       <td align="center" style="padding: 20px;">
