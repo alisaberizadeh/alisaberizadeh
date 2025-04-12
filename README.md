@@ -23,27 +23,27 @@ Hi , I'm a Full Stack Developer
                     width="50"  style="border-radius: 10px;" />
             </div>
         </td>
-        <td align="center" style="padding: 20px;">
+        <td align="center" style="padding: 20px;" width="100">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
                     width="50" />
             </div>
         </td>
-        <td align="center" style="padding: 20px;">
+        <td align="center" style="padding: 20px;" width="100">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
                     width="50" />
             </div>
         </td>
-        <td align="center" style="padding: 20px;">
+         <td align="center" style="padding: 20px;" width="100">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" width="50" />
             </div>
         </td>
-        <td align="center" style="padding: 20px;">
+        <td align="center" style="padding: 20px;" width="100">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968671.png"
