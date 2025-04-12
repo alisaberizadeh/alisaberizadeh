@@ -8,56 +8,69 @@ Hi , I'm a Full Stack Developer
 
 <br>
 
+ 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%; max-width: 900px; margin: auto;">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
+  <!-- 12 آیتم در دو ردیف -->
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- JavaScript -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- TypeScript -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- React -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- Next.js -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>Next.js
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- Tailwind -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>Tailwind
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- Bootstrap -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50"/><br>Bootstrap
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- MUI -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/><br>MUI
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- PHP -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>PHP
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- Laravel -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/><br>Laravel
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- MySQL -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- Git -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
   </div>
 
-  <div style="width: 120px; padding: 20px; border-radius: 16px; background-color: #f5f5f5; text-align: center; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <!-- Sass -->
+  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/><br>Sass
   </div>
 
 </div>
-
