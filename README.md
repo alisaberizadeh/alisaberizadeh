@@ -38,7 +38,7 @@ Hi , I'm a Full Stack Developer
       </td>
       <td align="center" style="padding: 20px;" width="100">
         <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50"/>
         </div>
       </td>
     </tr>
