@@ -26,21 +26,21 @@ Hi , I'm a Full Stack Developer
         <td align="center" style="padding: 20px;">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                    width="50" /><br>React
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+                    width="50" />
             </div>
         </td>
         <td align="center" style="padding: 20px;">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-                    width="50" /><br>Next.js
+                    width="50" />
             </div>
         </td>
         <td align="center" style="padding: 20px;">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br>Tailwind
+                <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" width="50" />
             </div>
         </td>
         <td align="center" style="padding: 20px;">
@@ -95,4 +95,3 @@ Hi , I'm a Full Stack Developer
     </tr>
 </table>
 </p>
-
