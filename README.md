@@ -54,7 +54,7 @@ Hi , I'm a Full Stack Developer
         </div>
       </td>
      <td align="center" style="padding: 20px;" width="100">
-  <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://avatars.githubusercontent.com/u/958072?v=4"   style="border-radius: 20px;" width="50"/>
   </div>
 </td>
