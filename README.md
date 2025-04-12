@@ -10,8 +10,8 @@ Hi , I'm a Full Stack Developer
 <p align="center">
 <table align="center" width="100%">
     <tr>
-        <td align="center" style="padding: 20px;">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
+        <td align="center" style="padding: 20px;" width="100">
+            <div style="border-radius: 16px; padding: 20px; background: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"  style="border-radius: 10px;" /><br>
             </div>
@@ -46,7 +46,7 @@ Hi , I'm a Full Stack Developer
         <td align="center" style="padding: 20px;">
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968671.png"
                     width="50" /><br>Bootstrap
             </div>
         </td>
