@@ -8,69 +8,90 @@ Hi , I'm a Full Stack Developer
 
 <br>
 
- 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%; max-width: 900px; margin: auto;">
+ <div align="center"
+    style="display: flex; flex-wrap: wrap; justify-content: center;  width: 100%; max-width: 900px; margin: auto;">
 
-  <!-- 12 آیتم در دو ردیف -->
 
-  <!-- JavaScript -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-  </div>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0; display: flex;align-items: center;justify-content: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"
+            width="70%" style="border-radius: 10px;" /><br>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+            width="70%" style="border-radius: 10px;" /><br>
+    </a>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+            width="80%" style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- TypeScript -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="80%"
+            style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- React -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
-  </div>
 
-  <!-- Next.js -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>Next.js
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;   display: flex;align-items: center;justify-content: center;">
+        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" width="90%"
+            style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- Tailwind -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>Tailwind
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-left: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968671.png" width="70%"
+            style="border-radius: 10px;" /><br>
+    </a>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;border-top: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://images.seeklogo.com/logo-png/36/2/material-ui-logo-png_seeklogo-363138.png " width="70%"
+            style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- Bootstrap -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50"/><br>Bootstrap
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;border-top: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://pngimg.com/d/php_PNG20.png" width="90%" style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- MUI -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/><br>MUI
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;border-top: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://avatars.githubusercontent.com/u/958072?v=4" width="70%" style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- PHP -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>PHP
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-right: 0;border-top: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="70%"
+            style="border-radius: 10px;" /><br>
+    </a>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d; border-top: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://iconape.com/wp-content/files/eh/367786/svg/logo-sass-logo-icon-png-svg.png" width="70%"
+            style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- Laravel -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/><br>Laravel
-  </div>
+    </a>
+    <a href=""
+        style="width: 120px;height: 120px; padding:10px;  border: 1px solid #3d444d;border-left: 0;border-top: 0;  display: flex;align-items: center;justify-content: center;">
+        <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png " width="70%"
+            style="border-radius: 10px;" /><br>
+    </a>
 
-  <!-- MySQL -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
-  </div>
 
-  <!-- Git -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-  </div>
 
-  <!-- Sass -->
-  <div style="width: 120px; padding: 20px; border-radius: 16px; border: 1px solid #ddd; text-align: center; transition: transform 0.3s; background-color: #fff;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/><br>Sass
-  </div>
+
+
 
 </div>
