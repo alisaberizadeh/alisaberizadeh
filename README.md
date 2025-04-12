@@ -7,87 +7,74 @@ Hi , I'm a Full Stack Developer
 * 🚀  I'm currently working on [Mony Shop](http://https://github.com/alisaberizadeh/monyshop)
 
 <br>
+<h3 align="center">🛠 مهارت‌های من</h3>
+
 <p align="center">
-<table align="center" width="100%">
+  <table align="center" width="100%">
     <tr>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
-        <td align="center" style="padding: 20px;">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
-                    width="50"  style="border-radius: 10px;" />
-            </div>
-        </td>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-                    width="50" />
-            </div>
-        </td>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-                    width="50" />
-            </div>
-        </td>
-         <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" width="50" />
-            </div>
-        </td>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968671.png"
-                    width="50" />
-            </div>
-        </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50"/>
+        </div>
+      </td>
     </tr>
     <tr>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="[[https://images.seeklogo.com/logo-png/36/2/material-ui-logo-png_seeklogo-363138.png](https://github.com/username/repository/blob/main/path/to/image.jpg?raw=true)](https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png)" width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://pngimg.com/d/php_PNG20.png" width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
-       <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://avatars.githubusercontent.com/u/958072?v=4" width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
-        <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
-         <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://iconape.com/wp-content/files/eh/367786/svg/logo-sass-logo-icon-png-svg.png" width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
-          <td align="center" style="padding: 20px;" width="100">
-            <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
-                onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-                <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png " width="50"  style="border-radius: 10px;" /><br>
-            </div>
-        </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+        </div>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
+        </div>
+      </td>
     </tr>
-</table>
+  </table>
 </p>
+
