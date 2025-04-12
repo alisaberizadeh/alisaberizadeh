@@ -58,14 +58,14 @@ Hi , I'm a Full Stack Developer
     <img src="https://avatars.githubusercontent.com/u/958072?v=4"   style="border-radius: 20px;" width="50"/>
   </div>
 </td>
-      <td align="center" style="padding: 20px;" width="100">
+    <td align="center" style="padding: 20px;">
         <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="50"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
         </div>
       </td>
-      <td align="center" style="padding: 20px;" width="100">
+      <td align="center" style="padding: 20px;">
         <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="50"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
         </div>
       </td>
       <td align="center" style="padding: 20px;" width="100">
