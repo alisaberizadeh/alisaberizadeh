@@ -47,7 +47,7 @@ Hi , I'm a Full Stack Developer
             <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;"
                 onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968671.png"
-                    width="50" /><br>Bootstrap
+                    width="50" />
             </div>
         </td>
     </tr>
