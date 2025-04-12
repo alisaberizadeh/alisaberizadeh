@@ -60,7 +60,7 @@ Hi , I'm a Full Stack Developer
 </td>
       <td align="center" style="padding: 20px;" width="100">
         <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="50"/>
+          <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="50"/>
         </div>
       </td>
       <td align="center" style="padding: 20px;" width="100">
