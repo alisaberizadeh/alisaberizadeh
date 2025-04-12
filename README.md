@@ -1,8 +1,5 @@
-Hi , My Name is Ali Saberi
+Hi , I'm a Full Stack Developer
 ===========================
-
-I'm a Full Stack Developer
---------------------------
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [Linkedin](http://http://www.linkedin.com/in/ali-saberizadeh-667899223/)
