@@ -28,23 +28,10 @@
 
 ---
 
-### 📡 APIs
-<p align="center">
-  <img src="https://media.giphy.com/media/W6bJZ9q6aY5Yc/giphy.gif" width="120" alt="RESTful API" />
-</p>
-
----
-
-### 🌟 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliSaberiZadeh&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
-</p>
-
----
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/alisaberizadeh" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Alisaberizadeh.one@gmail.com">
