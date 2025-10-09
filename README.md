@@ -1,70 +1,56 @@
-Hi , I'm a Front End Developer
-===========================
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Ali Saberi Zadeh</h1>
+<h3 align="center">A passionate Front-End Developer from Tehran</h3>
 
-* 🌍  I'm based in Tehran
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ali-saberizadeh-667899223/)
-* ✉️  You can contact me at [Alisaberizadeh.one@gmail.com](mailto:Alisaberizadeh.one@gmail.com)
+---
 
-<br>
- 
+### 💫 About Me  
+🌍 I'm based in **Tehran**  
+🖥️ See my portfolio at [LinkedIn](https://linkedin.com/in/alisaberizadeh)  
+✉️ You can contact me at **Alisaberizadeh.one@gmail.com**
+
+---
+
+### 🚀 Front-End Skills  
 <p align="center">
-  <table align="center" width="100%">
-    <tr>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  style="border-radius: 10px;" width="50"/>
-        </div>
-      </td>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="border-radius: 10px;"  width="50"/>
-        </div>
-      </td>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-        </div>
-      </td>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
-        </div>
-      </td>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-        </div>
-      </td>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/>
-        </div>
-      </td>
-
-     <td align="center" style="padding: 20px;" width="100">
-  <div style="padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://avatars.githubusercontent.com/u/958072?v=4"   style="border-radius: 20px;" width="50"/>
-  </div>
-</td>
-   
-      <td align="center" style="padding: 20px;">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-        </div>
-      </td>
-      <td align="center" style="padding: 20px;" width="100">
-        <div style="border-radius: 16px; padding: 20px; background-color: #f5f5f5; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-          <img src="https://img.icons8.com/m_sharp/512/sass.png" width="50"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.gif" width="60" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" alt="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" alt="Material UI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
 </p>
 
+---
+
+### 📡 APIs
+<p align="center">
+  <img src="https://media.giphy.com/media/W6bJZ9q6aY5Yc/giphy.gif" width="120" alt="RESTful API" />
+</p>
+
+---
+
+### 🌟 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliSaberiZadeh&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/alisaberizadeh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:Alisaberizadeh.one@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AliSaberiZadeh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
