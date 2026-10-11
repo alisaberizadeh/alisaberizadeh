@@ -7,7 +7,7 @@ This folder is ready for the public profile repository **alisaberizadeh/alisaber
 1. On GitHub, create a **public** repository named exactly `alisaberizadeh` (the same as your account username). If this repository already exists, use it instead of creating another one.
 2. Upload the contents of this folder to its **default branch**, keeping the directory structure intact:
    - `README.md`
-   - `assets/hero-dark.svg`, `assets/hero-light.svg`, `assets/footer-dark.svg`, `assets/footer-light.svg`
+   - `assets/hero-dark.svg`, `assets/hero-light.svg`, `assets/footer-dark.svg`, `assets/footer-light.svg`, `assets/rest-api.svg`
    - `.github/workflows/snake.yml`
 3. Go to the repository **Actions** tab and enable workflows if GitHub asks you to.
 4. Open **Actions → Generate Contribution Snake → Run workflow** to generate the first snake images.
@@ -18,7 +18,9 @@ This folder is ready for the public profile repository **alisaberizadeh/alisaber
 ## Notes
 
 - Header/footer use matching local SVG assets for light and dark modes. Their animated SVG waves may appear static in clients that restrict SVG animation.
-- Typing, statistics, streak, skill icons, and activity graph use external image generators. These services may occasionally be slow, unavailable, or rate-limited.
+- Typing, statistics, streak, branded skill badges, and the activity graph use external image generators. The REST API badge is included locally. These services may occasionally be slow, unavailable, or rate-limited.
 - GitHub statistics and language rankings reflect GitHub's publicly available data and the third-party service's calculation rules; they are not hand-entered facts.
 - You can remove any section of the README whenever you wish; there is intentionally no featured-projects section, no trophy section, and no visitor-counter badges.
 - Emails are public in this README as requested.
+
+- The **My Skills** badges flow horizontally and wrap onto new lines at narrower widths. GitHub removes most custom inline CSS, so this uses GitHub-compatible inline wrapping rather than relying on unsupported `display: flex` styles.
