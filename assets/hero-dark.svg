@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 310" role="img" aria-label="Ali Saberizadeh - Frontend Developer, React and Next.js">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1025"/><stop offset="1" stop-color="#15153D"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset=".52" stop-color="#637DF6"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1E9BFF"/><stop offset=".53" stop-color="#5865F2"/><stop offset="1" stop-color="#9A42DE"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#5B38D6" stop-opacity=".47"/><stop offset="1" stop-color="#5B38D6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#8091B0" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+    <clipPath id="round"><rect width="1280" height="310" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="310" fill="url(#bg)"/>
+    <rect width="1280" height="310" fill="url(#grid)"/>
+    <circle cx="1045" cy="40" r="255" fill="url(#glow)"/>
+    <circle cx="910" cy="195" r="170" fill="#3D8BFF" opacity=".10" filter="url(#soft)"/>
+    <circle cx="1040" cy="132" r="109" fill="none" stroke="#6B8EFF" stroke-width="1.5" stroke-opacity=".25"/>
+    <circle cx="1040" cy="132" r="76" fill="none" stroke="#9068FB" stroke-width="1.5" stroke-dasharray="8 12" stroke-opacity=".48">
+      <animateTransform attributeName="transform" type="rotate" from="0 1040 132" to="360 1040 132" dur="38s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="132" r="41" fill="none" stroke="#41C3FF" stroke-opacity=".45" stroke-width="2"/>
+    <path d="M 886 135 L 924 135 M 1160 135 L 1194 135 M 1040 16 L 1040 38 M 1040 225 L 1040 247" stroke="#69A7FC" stroke-opacity=".45" stroke-width="2"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+      <path d="M 1022 114 L 1001 133 L 1022 151"/><path d="M 1059 114 L 1080 133 L 1059 151"/><path d="M 1050 106 L 1033 158"/>
+    </g>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <rect x="78" y="56" width="122" height="29" rx="14.5" fill="#FFFFFF" fill-opacity=".08" stroke="#7D8DF9" stroke-opacity=".48"/>
+      <circle cx="94" cy="70" r="4" fill="#36D9B9"/><text x="106" y="75" fill="#CBD5E1" font-size="12" font-weight="700" letter-spacing="1.1">HELLO WORLD</text>
+      <text x="76" y="151" fill="#FFFFFF" font-size="61" font-weight="800" letter-spacing="-2.1">Ali Saberizadeh</text>
+      <rect x="78" y="169" width="74" height="4" rx="2" fill="url(#accent)"/>
+      <text x="78" y="207" fill="#CBD5E1" font-size="22" font-weight="500" letter-spacing="1.6">FRONTEND DEVELOPER</text>
+      <text x="78" y="235" fill="#CBD5E1" opacity=".8" font-size="14" letter-spacing=".5">Crafting modern web experiences, one component at a time.</text>
+      <text x="1040" y="265" fill="#CBD5E1" font-size="12" letter-spacing=".9" text-anchor="middle" opacity=".75">REACT  /  NEXT.JS</text>
+    </g>
+    <path fill="url(#wave)" opacity=".23" d="M0 273 C260 239 455 312 698 279 S1065 241 1280 282 L1280 310 L0 310Z">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 273 C260 239 455 312 698 279 S1065 241 1280 282 L1280 310 L0 310Z;M0 281 C260 314 455 236 698 278 S1065 309 1280 265 L1280 310 L0 310Z;M0 273 C260 239 455 312 698 279 S1065 241 1280 282 L1280 310 L0 310Z"/>
+    </path>
+    <path fill="url(#wave)" opacity=".76" d="M0 287 C255 265 468 305 697 284 S1105 274 1280 289 L1280 310 L0 310Z">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 287 C255 265 468 305 697 284 S1105 274 1280 289 L1280 310 L0 310Z;M0 294 C255 310 468 267 697 291 S1105 302 1280 278 L1280 310 L0 310Z;M0 287 C255 265 468 305 697 284 S1105 274 1280 289 L1280 310 L0 310Z"/>
+    </path>
+  </g>
+</svg>
