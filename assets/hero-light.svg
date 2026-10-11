@@ -23,8 +23,6 @@
       <path d="M 1022 114 L 1001 133 L 1022 151"/><path d="M 1059 114 L 1080 133 L 1059 151"/><path d="M 1050 106 L 1033 158"/>
     </g>
     <g font-family="Segoe UI,Arial,sans-serif">
-      <rect x="78" y="56" width="122" height="29" rx="14.5" fill="#1D4ED8" fill-opacity=".08" stroke="#7D8DF9" stroke-opacity=".48"/>
-      <circle cx="94" cy="70" r="4" fill="#36D9B9"/><text x="106" y="75" fill="#475569" font-size="12" font-weight="700" letter-spacing="1.1">HELLO WORLD</text>
       <text x="76" y="151" fill="#15213D" font-size="61" font-weight="800" letter-spacing="-2.1">Ali Saberizadeh</text>
       <rect x="78" y="169" width="74" height="4" rx="2" fill="url(#accent)"/>
       <text x="78" y="207" fill="#475569" font-size="22" font-weight="500" letter-spacing="1.6">FRONTEND DEVELOPER</text>
