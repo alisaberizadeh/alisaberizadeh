@@ -15,6 +15,9 @@ I like working on both sides of a feature. A good result for me is an interface 
   <img src="./assets/skills/typescript.svg" width="130" height="102" alt="TypeScript">
   <img src="./assets/skills/html5.svg" width="130" height="102" alt="HTML">
   <img src="./assets/skills/css3.svg" width="130" height="102" alt="CSS">
+  <img src="./assets/skills/reactquery.svg" width="130" height="102" alt="React Query">
+  <img src="./assets/skills/redux.svg" width="130" height="102" alt="Redux Toolkit">
+  <img src="./assets/skills/axios.svg" width="130" height="102" alt="Axios">
 </p>
 
 ### UI & Styling
@@ -32,15 +35,7 @@ I like working on both sides of a feature. A good result for me is an interface 
   <img src="./assets/skills/laravel.svg" width="130" height="102" alt="Laravel">
   <img src="./assets/skills/php.svg" width="130" height="102" alt="PHP">
   <img src="./assets/skills/rest-api.svg" width="130" height="102" alt="REST API">
-</p>
-
-### Data & State Management
-
-<p>
   <img src="./assets/skills/sql.svg" width="130" height="102" alt="SQL">
-  <img src="./assets/skills/reactquery.svg" width="130" height="102" alt="React Query">
-  <img src="./assets/skills/redux.svg" width="130" height="102" alt="Redux Toolkit">
-  <img src="./assets/skills/axios.svg" width="130" height="102" alt="Axios">
 </p>
 
 ### Development Tools
