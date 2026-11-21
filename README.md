@@ -4,8 +4,6 @@ Hi, I'm Ali 👋 For **5+ years**, I've been building web applications from the 
 
 I like working on both sides of a feature. A good result for me is an interface that feels natural to use, backed by code another developer can pick up and extend.
 
-## My Skills
-
 ### Frontend
 
 <p>
