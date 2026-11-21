@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Saberizadeh</title>
+  <desc id="desc">Full-Stack Developer · Tehran, with a teal wave background.</desc>
+  <path fill="#63b7b2" d="M0 0h1200v202c-360-10-760-16-1200-25Z"/>
+  <path fill="#9ed5d1" d="M0 176c330 37 675-55 1200-18v44c-463-15-869-17-1200-26Z"/>
+  <text x="600" y="109" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700">Ali Saberizadeh</text>
+  <text x="600" y="150" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Full-Stack Developer · Tehran</text>
+</svg>

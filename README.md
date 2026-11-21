@@ -1,39 +1,31 @@
-<div align="center">
-
-<p><code>ali@dev:~$ whoami</code></p>
-
-<h1>Ali Saberizadeh</h1>
-
-<p><strong>full-stack developer</strong> · react / next.js / typescript</p>
-
-<p>
-  <a href="mailto:Alisaberizadeh.one@gmail.com">email</a>
-  ·
-  <a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">linkedin</a>
-  ·
-  <a href="https://github.com/alisaberizadeh">github</a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ali Saberizadeh — Full-Stack Developer · Tehran" />
 </p>
 
-</div>
+<br />
 
-<p><code>ali@dev:~$ cat about.md</code></p>
+<p align="center">
+  <a href="https://github.com/alisaberizadeh"><img src="https://img.shields.io/badge/GITHUB-09978D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/"><img src="https://img.shields.io/badge/LINKEDIN-0866C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:Alisaberizadeh.one@gmail.com"><img src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
 
-I'm **Ali Saberizadeh**, a Full-Stack Developer with **5+ years of experience** building modern web applications. I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability.
+<br />
 
-Currently building products at **Omid Hegmataneh Pouya Novin**.
+## About Me
 
-<p><code>ali@dev:~$ ls stack/ --by-role</code></p>
+I'm **Ali Saberizadeh**, a **Full-Stack Developer with 5+ years of experience**, focused on building maintainable, responsive, and user-friendly web applications.
 
-```text
-frontend/    react · next.js · javascript · typescript · tailwind · mui
-backend/     laravel · php · rest api
-data/state/  react query · redux toolkit · sql · axios
-tooling/     git · bootstrap · sass · html · css
-```
+I enjoy turning ideas into intuitive digital products, connecting interfaces to APIs, and improving performance and usability. I currently work at **Omid Hegmataneh Pouya Novin**.
 
-<p><code>ali@dev:~$ open skills --visual</code></p>
+My stack includes **React, Next.js, and TypeScript** on the frontend, alongside **Laravel, PHP, and SQL** for backend and data work.
 
-<h2>🧰 Skills</h2>
+- **Frontend Development:** Component-based interfaces, state management, and responsive layouts.
+- **Backend Development:** Laravel, PHP, and REST APIs.
+- **Data & State:** SQL, React Query, Redux Toolkit, and Axios.
+- **Development Practices:** Git workflows, reusable components, and maintainable code.
+
+## Technical Skills
 
 <div align="center">
 
@@ -63,15 +55,5 @@ tooling/     git · bootstrap · sass · html · css
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
   </tr>
 </table>
-
-</div>
-
-<hr />
-
-<p><code>ali@dev:~$ echo $STATUS</code></p>
-
-<div align="center">
-
-<p><em>open to collaboration, new ideas, and interesting products</em></p>
 
 </div>
