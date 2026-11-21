@@ -1,77 +1,101 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-light.svg" alt="Ali Saberizadeh" width="100%" />
+</picture>
+
 # Ali Saberizadeh
 
 ### Full-Stack Developer
 
-Building modern, responsive, and user-friendly web experiences.
+I build modern, responsive, and user-friendly web experiences.
 
-<p>
-  <a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">LinkedIn</a>
-  ·
-  <a href="mailto:Alisaberizadeh.one@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/alisaberizadeh">GitHub</a>
-</p>
-
-</div>
-
----
-
-### About
-
-I'm **Ali Saberizadeh**, a Full-Stack Developer with **5+ years of experience** building modern web applications.
-
-I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability. I currently work at **Omid Hegmataneh Pouya Novin** and continuously learn, build, and improve.
-
-### Skills
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-**State, Data & Workflow**
-
-<p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:Alisaberizadeh.one@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/alisaberizadeh">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### What I care about
-
-- Clean, maintainable code
-- Responsive interfaces and thoughtful UX
-- Performance and accessibility
-- Continuous learning and meaningful collaboration
-
-### GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alisaberizadeh&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=64748B&icon_color=7C3AED" alt="GitHub statistics" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisaberizadeh&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=64748B&title_color=7C3AED" alt="Top languages" width="40%" />
+</a>
 
 </div>
 
----
+<br />
+
+## About me
+
+I'm **Ali Saberizadeh**, a **Full-Stack Developer** with **5+ years of experience** building modern web applications. I currently work at **Omid Hegmataneh Pouya Novin**.
+
+I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability.
 
 <div align="center">
 
-> Learn. Build. Improve.
+| | |
+|:---:|:---:|
+| 💻 **Position** | Full-Stack Developer |
+| 📍 **Location** | Tehran, Iran |
+| 🎯 **Focus** | Modern web applications & clean user experiences |
+
+</div>
+
+## Skills
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/nextdotjs/111827" width="42" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript" /><br /><sub><b>JavaScript (ES6+)</b></sub></td>
+    <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="42" alt="Laravel" /><br /><sub><b>Laravel</b></sub></td>
+    <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="42" alt="React Query" /><br /><sub><b>React Query</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="SQL" /><br /><sub><b>SQL</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" alt="Tailwind CSS" /><br /><sub><b>Tailwind</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/redux/764ABC" width="42" alt="Redux Toolkit" /><br /><sub><b>Redux Toolkit</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" alt="Bootstrap" /><br /><sub><b>Bootstrap</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mui/007FFF" width="42" alt="Material UI" /><br /><sub><b>Material UI</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/axios/5A29E4" width="42" alt="Axios" /><br /><sub><b>Axios</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/sass/CC6699" width="42" alt="Sass" /><br /><sub><b>Sass</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" alt="REST API" /><br /><sub><b>REST API</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="42" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+## What I build
+
+<div align="center">
+
+| ✨ | | ✨ | |
+|:---:|:---|:---:|:---|
+| ⚡ | Fast, responsive interfaces | 🧩 | Reusable component systems |
+| 🔗 | API-driven applications | 🎨 | Thoughtful and accessible UX |
+
+</div>
+
+<br />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+  <img src="./assets/footer-light.svg" alt="Keep learning. Keep building. Keep growing." width="100%" />
+</picture>
+
+<sub>Learn · Build · Improve</sub>
 
 </div>
