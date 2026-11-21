@@ -1,44 +1,37 @@
 <div align="center">
 
+<p><code>ali@dev:~$ whoami</code></p>
+
 <h1>Ali Saberizadeh</h1>
 
-<p><strong>Full-Stack Developer</strong></p>
+<p><strong>full-stack developer</strong> · react / next.js / typescript</p>
 
-<p>Engineering polished web products with clean code and thoughtful user experiences.</p>
-
-<a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:Alisaberizadeh.one@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/alisaberizadeh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p>
+  <a href="mailto:Alisaberizadeh.one@gmail.com">email</a>
+  ·
+  <a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">linkedin</a>
+  ·
+  <a href="https://github.com/alisaberizadeh">github</a>
+</p>
 
 </div>
 
-<hr />
+<p><code>ali@dev:~$ cat about.md</code></p>
 
-<div align="center">
+I'm **Ali Saberizadeh**, a Full-Stack Developer with **5+ years of experience** building modern web applications. I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability.
 
-<table border="0" cellpadding="18">
-  <tr>
-    <td width="62%" valign="top">
-      <h2>👋 About me</h2>
-      <p>I'm <strong>Ali Saberizadeh</strong>, a Full-Stack Developer with <strong>5+ years of experience</strong> building modern web applications.</p>
-      <p>I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability.</p>
-      <p><strong>Currently:</strong> building products at <strong>Omid Hegmataneh Pouya Novin</strong>.</p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/5%2B%20Years%20Experience-7C3AED?style=for-the-badge&logoColor=white" alt="5+ Years Experience" /><br /><br />
-      <img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=for-the-badge&logoColor=white" alt="Full-Stack Development" /><br /><br />
-      <img src="https://img.shields.io/badge/Clean%20Code%20%26%20UX-0F766E?style=for-the-badge&logoColor=white" alt="Clean Code and UX" />
-    </td>
-  </tr>
-</table>
+Currently building products at **Omid Hegmataneh Pouya Novin**.
 
-</div>
+<p><code>ali@dev:~$ ls stack/ --by-role</code></p>
+
+```text
+frontend/    react · next.js · javascript · typescript · tailwind · mui
+backend/     laravel · php · rest api
+data/state/  react query · redux toolkit · sql · axios
+tooling/     git · bootstrap · sass · html · css
+```
+
+<p><code>ali@dev:~$ open skills --visual</code></p>
 
 <h2>🧰 Skills</h2>
 
@@ -75,11 +68,10 @@
 
 <hr />
 
+<p><code>ali@dev:~$ echo $STATUS</code></p>
+
 <div align="center">
 
-<p><strong>Let's build something meaningful.</strong></p>
-<p><sub>Open to collaboration, new ideas, and interesting products.</sub></p>
-
-<a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">Connect on LinkedIn →</a>
+<p><em>open to collaboration, new ideas, and interesting products</em></p>
 
 </div>
