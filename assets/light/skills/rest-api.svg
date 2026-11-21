@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="102" viewBox="0 0 130 102" role="img" aria-labelledby="title">
+  <title id="title">REST API</title>
+  <rect x="4.5" y="4.5" width="121" height="93" rx="13" fill="#fcfafd" stroke="#c7bbcf"/>
+  <g transform="translate(47 20) scale(1.5)" color="#147462" fill="#147462"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m7.5 6.5-5 5.5 5 5.5m9-11 5 5.5-5 5.5M14.3 3.5l-4.6 17"/></g></g>
+  <text x="65" y="81" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#312537">REST API</text>
+</svg>
