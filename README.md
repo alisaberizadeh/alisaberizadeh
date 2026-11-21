@@ -22,15 +22,29 @@ Full-Stack Developer focused on building scalable web applications and polished 
 
 ## About me
 
-I'm **Ali Saberizadeh**, a **Full-Stack Developer** with **5+ years of experience** building modern web applications. I currently work at **Omid Hegmataneh Pouya Novin**.
+<div align="center">
 
-I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability.
+<table border="1" cellpadding="14" cellspacing="0">
+  <tr>
+    <td width="38%" align="center">
+      <h3>👋 Hello, I'm Ali</h3>
+      <p><strong>Full-Stack Developer</strong></p>
+      <p><sub>5+ years of experience<br />Omid Hegmataneh Pouya Novin</sub></p>
+    </td>
+    <td width="62%" align="left">
+      <p>I enjoy turning ideas into intuitive digital products and building experiences that are simple, fast, and useful.</p>
+      <p><strong>My approach:</strong> clean code, thoughtful interfaces, maintainable architecture, and continuous improvement.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Skills
 
 <div align="center">
 
-<table>
+<table border="1" cellpadding="10" cellspacing="8">
   <tr>
     <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React" /><br /><sub><b>React</b></sub></td>
     <td align="center" width="16.66%"><img src="https://cdn.simpleicons.org/nextdotjs/111827" width="42" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
@@ -53,22 +67,8 @@ I enjoy turning ideas into intuitive digital products, writing maintainable code
     <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git" /><br /><sub><b>Git</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" alt="REST API" /><br /><sub><b>REST API</b></sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="42" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
   </tr>
 </table>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-  <img src="./assets/footer-light.svg" alt="Keep learning. Keep building. Keep growing." width="100%" />
-</picture>
-
-<sub>Learn · Build · Improve</sub>
 
 </div>
