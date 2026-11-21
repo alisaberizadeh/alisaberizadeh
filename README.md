@@ -1,16 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-light.svg" alt="Ali Saberizadeh" width="100%" />
-</picture>
-
 # Ali Saberizadeh
 
 ### Full-Stack Developer
 
-I build modern, responsive, and user-friendly web experiences.
+Full-Stack Developer focused on building scalable web applications and polished user experiences.
 
 <a href="https://www.linkedin.com/in/ali-saberizadeh-667899223/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,16 +25,6 @@ I build modern, responsive, and user-friendly web experiences.
 I'm **Ali Saberizadeh**, a **Full-Stack Developer** with **5+ years of experience** building modern web applications. I currently work at **Omid Hegmataneh Pouya Novin**.
 
 I enjoy turning ideas into intuitive digital products, writing maintainable code, and improving performance and usability.
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 💻 **Position** | Full-Stack Developer |
-| 📍 **Location** | Tehran, Iran |
-| 🎯 **Focus** | Modern web applications & clean user experiences |
-
-</div>
 
 ## Skills
 
@@ -72,17 +56,6 @@ I enjoy turning ideas into intuitive digital products, writing maintainable code
     <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="42" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
   </tr>
 </table>
-
-</div>
-
-## What I build
-
-<div align="center">
-
-| ✨ | | ✨ | |
-|:---:|:---|:---:|:---|
-| ⚡ | Fast, responsive interfaces | 🧩 | Reusable component systems |
-| 🔗 | API-driven applications | 🎨 | Thoughtful and accessible UX |
 
 </div>
 
