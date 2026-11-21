@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="130" height="102" viewBox="0 0 130 102" role="img" aria-labelledby="title">
   <title id="title">SQL</title>
-  <rect x="4.5" y="4.5" width="121" height="93" rx="13" fill="#211d2b" stroke="#706079"/>
+  <rect x="4.5" y="4.5" width="121" height="93" rx="13" fill="#211d2b" stroke="#605369"/>
   <g transform="translate(47 20) scale(1.5)" color="#a6cbfd" fill="#a6cbfd"><g fill="none" stroke="currentColor" stroke-width="1.7"><ellipse cx="12" cy="5" rx="8" ry="3.1"/><path d="M4 5v13.5c0 4.2 16 4.2 16 0V5M4 11.6c0 4.2 16 4.2 16 0"/></g></g>
   <text x="65" y="81" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#fff6ed">SQL</text>
 </svg>
