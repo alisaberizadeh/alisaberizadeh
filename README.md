@@ -42,4 +42,7 @@ I like working on both sides of a feature. A good result for me is an interface 
 
 <p>
   <img src="./assets/skills/git.svg" width="130" height="102" alt="Git">
+  <img src="./assets/skills/npm.svg" width="130" height="102" alt="npm">
+  <img src="./assets/skills/composer.svg" width="130" height="102" alt="Composer">
+  <img src="./assets/skills/postman.svg" width="130" height="102" alt="Postman">
 </p>
